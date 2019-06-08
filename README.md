@@ -11,8 +11,9 @@ The chatbot uses messenger as platform and has the following functions:<br />
 2. Fetch weather forecast to auto-suggest indoor places instead (work-in-progress)
 3. Q&A on selected travel suggestion (work-in-progress)
 <br />
-To start chatbot, 
-1. Input the page access token and verify token in server.py 
+To start chatbot,<br /> 
+1. Input the page access token and verify token in server.py
+<br />
 2. Run the server.py files by keying in command prompt "set FLASK_APP=server.py flask run"
 <br />
-Data can 
+ 
