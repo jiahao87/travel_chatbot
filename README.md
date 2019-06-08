@@ -16,4 +16,8 @@ To start chatbot,<br />
 <br />
 2. Run the server.py files by keying in command prompt "set FLASK_APP=server.py flask run"
 <br />
- 
+References
+<br />
+1. https://medium.com/@manoveg/multi-class-text-classification-with-probability-prediction-for-each-class-using-linearsvc-in-289189fbb100
+2. https://www.datacamp.com/community/tutorials/facebook-chatbot-python-deploy
+3. https://developers.facebook.com/docs/messenger-platform/send-messages
