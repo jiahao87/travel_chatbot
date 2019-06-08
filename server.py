@@ -8,8 +8,8 @@ import urllib.request
 app = Flask(__name__)
 
 FB_API_URL = 'https://graph.facebook.com/v2.6/me/messages'
-VERIFY_TOKEN = 'a8bf030ae95c83eaa9775d0dd7e7540f'# <paste your verify token here>
-PAGE_ACCESS_TOKEN = 'EAAIee6jvZBsQBALtYWPYiC4EUnY8ZAOrLQwaHqVgqplN9XfOyitsy3DIaWZCF7zcZAAKs9cyrYs9BCwZC2AIeUwdcgMPjZBi2bjf9ZC6SPDknM9TL8HWmdDZCws8pJR5kGoWjZAZCNWwxZCfwHecZBWLG4hpaQQtCTLgRmWKU3CgAso7HV7PoXEndlQy8m1w9wYeNSMZD'# paste your page access token here>"
+VERIFY_TOKEN = <VERIFY TOKEN># <paste your verify token here>
+PAGE_ACCESS_TOKEN = <PAGE ACCESS TOKEN>'# paste your page access token here>"
 
 
 def get_name(sender):
